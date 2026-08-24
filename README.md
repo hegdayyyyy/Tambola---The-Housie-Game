@@ -1,4 +1,4 @@
-# Tambola - Online Housie Game
+# Tambola - The Housie Game
 
 ![Screenshot 1](./images/Screenshot%202026-08-24%20215933.png)
 ![Screenshot 2](./images/Screenshot%202026-08-24%20220310.png)
