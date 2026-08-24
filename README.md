@@ -4,7 +4,7 @@
 ![Screenshot 2](./images/Screenshot%202026-08-24%20220310.png)
 ![Screenshot 3](./images/Screenshot%202026-08-24%20222038.png)
 
-A real-time multiplayer Tambola game
+A real-time multiplayer Tambola game ( Indian Bingo)
 
 ## Project Structure
 
