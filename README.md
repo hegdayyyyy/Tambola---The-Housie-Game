@@ -40,7 +40,7 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-Backend runs on: `http://localhost:8080`
+Backend runs on: `http://localhost:8081`
 
 ### Frontend
 
@@ -54,7 +54,7 @@ npm install
 npm run dev
 ```
 
-Frontend runs on: `http://localhost:3000`
+Frontend runs on: `http://localhost:8080`
 
 ## Features
 
