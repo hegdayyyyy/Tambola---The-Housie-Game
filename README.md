@@ -93,3 +93,4 @@ Rooms → Players → Tickets
 - **Backend**: Spring Boot, WebSocket/STOMP, JPA/Hibernate, PostgreSQL
 - **Frontend**: React 18, TypeScript, Tailwind CSS, TanStack Router
 
+## Local Release--v1.0
