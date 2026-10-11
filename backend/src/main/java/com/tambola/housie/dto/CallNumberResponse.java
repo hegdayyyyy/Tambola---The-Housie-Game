@@ -12,7 +12,6 @@ public class CallNumberResponse {
     private LocalDateTime calledAt;
     private GameStatus gameStatus;
 
-    // Constructors
     public CallNumberResponse() {
     }
 
